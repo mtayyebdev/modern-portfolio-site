@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@theme{
+    --color-primary:rgb(11,13,12);
+    --color-secondary:rgb(9,11,11);
+    --color-card:rgb(19,22,23);
+    --color-accent:rgb(6,169,80);
+    --color-accent-hover:rgb(8,214,101);
+}
+/* .active{
+    color: var(--color-accent);
+    font-weight: 600;
+} */
